@@ -1,9 +1,9 @@
-# 🌿 Subproducto-Check: Validador Inteligente para PYMEs Industriales
+# 🌿 Subproducto-Audit: Validador Inteligente para PYMEs Industriales
 
 ## 📌 Visión General
-**Subproducto-Check** es una aplicación analítica y operativa diseñada para optimizar los workflows de sostenibilidad en plantas industriales del País Vasco. Su objetivo es evaluar de forma estructurada si las mermas o materiales sobrantes de los procesos de fabricación pueden dejar de considerarse legalmente como "residuos" y transicionar al estatus de **Subproducto**, conforme al Artículo 4 de la Ley 7/2022.
+**Subproducto-Audit** es una aplicación analítica y operativa diseñada para optimizar los workflows de sostenibilidad en plantas industriales del País Vasco. Su objetivo es evaluar de forma estructurada si las mermas o materiales sobrantes de los procesos de fabricación pueden dejar de considerarse legalmente como "residuos" y transicionar al estatus de **Subproducto**, conforme al Artículo 4 de la Ley 7/2022.
 
-Este proyecto nace de la integración de conocimientos adquiridos en el programa **Waste Lab Bizkaia** y su aplicación práctica dentro de la iniciativa de incubación y emprendimiento **Aktibarural**, combinando la rigurosidad técnica de las operaciones en planta con el análisis de datos y la inteligencia artificial.
+Este proyecto nace de la integración de conocimientos adquiridos en el programa "Gestión y orevencion de residuos" del **Waste Lab Bizkaia** y su aplicación práctica dentro de la iniciativa de incubación y emprendimiento **Aktibarural**, combinando la rigurosidad técnica de las operaciones en planta con el análisis de datos y la inteligencia artificial.
 
 ## ⚙️ ¿Para qué sirve?
 En entornos industriales altamente regulados, la correcta categorización de los flujos de materiales es vital. Esta herramienta permite a los equipos de operaciones, calidad y medio ambiente:
@@ -46,5 +46,5 @@ Imagina una planta del sector de **Mecanizado y Metalurgia** que genera 120 tone
 4. Ejecúta la app en streamlit:
     streamlit run app.py
 
-## 👤 Sobre el autor
-Este desarrollo refleja un enfoque orientado a la sostenibilidad basada en datos y operaciones. Como especialista técnico en operaciones y datos dentro de entornos de alta complejidad, el objetivo principal de este proyecto es demostrar cómo la aplicación de Python y herramientas de automatización pueden optimizar workflows, consolidar indicadores ambientales (como huella de carbono y circularidad) y aportar trazabilidad absoluta a la información en planta para el cumplimiento normativo ESG y marcos como CSRD/ESRS o VSME.
+## 👤 Sobre mi
+Este desarrollo refleja un enfoque orientado a la sostenibilidad basada en datos y operaciones. Como especialista técnico en sostenibilidad y datos dentro de entornos de alta complejidad, el objetivo principal de este proyecto es demostrar cómo la aplicación de Python y herramientas de automatización pueden optimizar workflows, consolidar indicadores ambientales (como huella de carbono y circularidad) y aportar trazabilidad absoluta a la información en planta para el cumplimiento normativo, ESG y marcos como CSRD/ESRS o VSME.
