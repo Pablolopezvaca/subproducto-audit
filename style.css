@@ -1,0 +1,25 @@
+/* style.css */
+.stApp {
+    background-color: #0E1117;
+}
+h1, h2, h3 {
+    color: #4CAF50; /* Verde eco-tecnológico */
+    font-family: 'Helvetica Neue', sans-serif;
+}
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 10px 24px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.stButton>button:hover {
+    background-color: #45a049;
+    box-shadow: 0 4px 8px rgba(76, 175, 80, 0.3);
+}
+.css-1d391kg {
+    background-color: #1E1E1E; /* Cajas de texto más limpias */
+    border-radius: 8px;
+}
