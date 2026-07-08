@@ -5,6 +5,13 @@
 
 Este proyecto nace de la integración de conocimientos adquiridos en el programa "Gestión y orevencion de residuos" del **Waste Lab Bizkaia** y su aplicación práctica dentro de la iniciativa de incubación y emprendimiento **Aktibarural**, combinando la rigurosidad técnica de las operaciones en planta con el análisis de datos y la inteligencia artificial.
 
+### 🚀 Acceso a la Aplicación en Producción
+La plataforma se encuentra desplegada en la nube y totalmente operativa para pruebas de concepto en el siguiente enlace:
+
+👉 **[Ejecutar Subproducto-Audit en Streamlit Cloud](https://subappucto-auditgit-h2xavbja8a4jetkxjb46ks.streamlit.app/)**
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://subappucto-auditgit-h2xavbja8a4jetkxjb46ks.streamlit.app/)
+
 ## ⚙️ ¿Para qué sirve?
 En entornos industriales altamente regulados, la correcta categorización de los flujos de materiales es vital. Esta herramienta permite a los equipos de operaciones, calidad y medio ambiente:
 1. **Validar requisitos:** Comprobar de forma interactiva las cuatro condiciones legales simultáneas necesarias para declarar un subproducto.
